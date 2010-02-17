@@ -28,7 +28,7 @@ keyboard navigation via
 TODO
 ----
 
-Fix up the keyboard shortcut display.  It's using a lowly gitJavaScript alert
+Fix up the keyboard shortcut display.  It's using a lowly JavaScript alert
 right now and it's getting a bit cramped.
 
 
