@@ -10,7 +10,7 @@ Usage
 First, you'll need to install
 [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/748 ).
 
-Then, you'll need to download the tidybz2.user.js script for it to install.
+Then, after restarting your browser, you'll need to download the [tidybz2.user.js](http://github.com/slackorama/tidybz2/raw/master/tidybz2.user.js) script for it to install.
 
 It probably goes without saying but this script won't run on anything but
 Firefox (and maybe Chrome).
@@ -28,7 +28,7 @@ keyboard navigation via
 TODO
 ----
 
-Fix up the keyboard shortcut display.  It's using a lowly JavaScript alert
+Fix up the keyboard shortcut display.  It's using a lowly gitJavaScript alert
 right now and it's getting a bit cramped.
 
 
